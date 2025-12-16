@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdyte_docs=self.webpackChunkdyte_docs||[]).push([[4545],{1709:(s,a,e)=>{e.r(a),e.d(a,{default:()=>h});e(96540);var t=e(56347),c=e(74848);function h(){const s=(0,t.W6)();return(0,c.jsx)(t.rd,{to:{pathname:"/api",search:"v=v2",hash:s.location.hash}})}}}]);
