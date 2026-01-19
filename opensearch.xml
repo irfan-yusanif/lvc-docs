@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
                        xmlns:moz="http://www.mozilla.org/2006/browser/search/">
-  <ShortName>Best Flutter Boilerplate</ShortName>
-  <Description>Search Best Flutter Boilerplate</Description>
+  <ShortName>YLC Documentation</ShortName>
+  <Description>Search YLC Documentation</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://bestflutterboilerplate.com/logo/lvc/logo.png</Image>
-  <Url type="text/html" method="get" template="https://bestflutterboilerplate.com/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://bestflutterboilerplate.com/opensearch.xml" />
-  <moz:SearchForm>https://bestflutterboilerplate.com/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://yourluvcode.com/logo/lvc/logo.png</Image>
+  <Url type="text/html" method="get" template="https://yourluvcode.com/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://yourluvcode.com/opensearch.xml" />
+  <moz:SearchForm>https://yourluvcode.com/</moz:SearchForm>
 </OpenSearchDescription>
